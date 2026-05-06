@@ -425,10 +425,7 @@ h3 {
 .policy-grid {
   margin-top: 52px;
   margin-bottom: 72px;
-  display: grid;
-  grid-template-columns: 300px minmax(0, 760px);
-  gap: 58px;
-  align-items: start;
+  display: block;
 }
 
 .policy-grid aside {
