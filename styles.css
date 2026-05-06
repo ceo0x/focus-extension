@@ -166,12 +166,6 @@ h3 {
   transition: transform 160ms ease, box-shadow 160ms ease, background 160ms ease;
 }
 
-.store-icon {
-  width: 21px;
-  height: 21px;
-  flex: 0 0 auto;
-}
-
 .button:hover {
   transform: translateY(-2px);
 }
